@@ -1,0 +1,110 @@
+[
+  {
+    "id": "52d83a77-955d-4ade-bfa5-e911ac55dd1a",
+    "scheduledAt": "2021-10-28T15:00:00Z",
+    "expiresAt": "2021-11-14T15:00:00Z",
+    "duration": 60,
+    "priceCents": 3500,
+    "isLegacy": false,
+    "studentAvatar": "https://static-staging.metafy.gg/avatars/48.jpg",
+    "sessionName": "Setting up your config",
+    "sessionGame": "CS:GO",
+    "description": "Let's put up a list of cool useful binding that will make your life easier, shall we?"
+  },
+  {
+    "id": "52d83a77-955d-4ade-bfa5-e911ac55dd1a",
+    "scheduledAt": "2021-10-07T15:00:00Z",
+    "expiresAt": "2021-10-21T15:00:00Z",
+    "duration": 60,
+    "priceCents": 3500,
+    "isLegacy": false,
+    "studentAvatar": "https://static-staging.metafy.gg/avatars/48.jpg",
+    "sessionName": "Spray control",
+    "sessionGame": "CS:GO",
+    "description": "You ever playing on de_mirage, hold mouse 1 and end up sending your shots to dust2? Let's fix that."
+  },
+  {
+    "id": "52d83a77-955d-4ade-bfa5-e911ac55dd1a",
+    "scheduledAt": "2021-10-07T15:00:00Z",
+    "expiresAt": "2021-10-21T15:00:00Z",
+    "duration": 60,
+    "priceCents": 3500,
+    "isLegacy": false,
+    "studentAvatar": "https://static-staging.metafy.gg/avatars/48.jpg",
+    "sessionName": "Strafing, is it important?",
+    "sessionGame": "CS:GO",
+    "description": "Let's talk about shot accuracy and movement."
+  },
+  {
+    "id": "52d83a77-955d-4ade-bfa5-e911ac55dd1a",
+    "scheduledAt": "2021-10-07T15:00:00Z",
+    "expiresAt": "2021-10-21T15:00:00Z",
+    "duration": 60,
+    "priceCents": 3500,
+    "isLegacy": false,
+    "studentAvatar": "https://static-staging.metafy.gg/avatars/48.jpg",
+    "sessionName": "Training routine",
+    "sessionGame": "CS:GO",
+    "description": "Practice makes perfect. Let's make a list of useful workshop maps to practice on."
+  },
+  {
+    "id": "52d83a77-955d-4ade-bfa5-e911ac55dd1a",
+    "scheduledAt": "2021-09-23T15:00:00Z",
+    "expiresAt": "2021-09-30T15:00:00Z",
+    "duration": 60,
+    "priceCents": 3500,
+    "isLegacy": false,
+    "studentAvatar": "https://static-staging.metafy.gg/avatars/48.jpg",
+    "sessionName": "In game roles",
+    "sessionGame": "CS:GO",
+    "description": "Spending the first 10 second of every round in spawn discussing what to do? Let's talk about roles."
+  },
+  {
+    "id": "52d83a77-955d-4ade-bfa5-e911ac55dd1a",
+    "scheduledAt": "2021-09-23T15:00:00Z",
+    "expiresAt": "2021-09-30T15:00:00Z",
+    "duration": 60,
+    "priceCents": 3500,
+    "isLegacy": false,
+    "studentAvatar": "https://static-staging.metafy.gg/avatars/48.jpg",
+    "sessionName": "Utility",
+    "sessionGame": "CS:GO",
+    "description": "Pop flashes, smokes, HEs, line-ups, etc"
+  },
+  {
+    "id": "52d83a77-955d-4ade-bfa5-e911ac55dd1a",
+    "scheduledAt": "2022-02-14T15:00:00Z",
+    "expiresAt": "2022-02-21T15:00:00Z",
+    "duration": 60,
+    "priceCents": 3500,
+    "isLegacy": false,
+    "studentAvatar": "https://static-staging.metafy.gg/avatars/48.jpg",
+    "sessionName": "Training routine",
+    "sessionGame": "CS:GO",
+    "description": "Practice makes perfect. Let's make a list of useful workshop maps to practice on."
+  },
+  {
+    "id": "52d83a77-955d-4ade-bfa5-e911ac55dd1a",
+    "scheduledAt": "2022-02-14T15:00:00Z",
+    "expiresAt": "2022-02-21T15:00:00Z",
+    "duration": 60,
+    "priceCents": 3500,
+    "isLegacy": false,
+    "studentAvatar": "https://static-staging.metafy.gg/avatars/48.jpg",
+    "sessionName": "Setting up your config",
+    "sessionGame": "CS:GO",
+    "description": "Let's put up a list of cool useful binding that will make your life easier, shall we?"
+  },
+  {
+    "id": "52d83a77-955d-4ade-bfa5-e911ac55dd1a",
+    "scheduledAt": "2022-02-14T15:00:00Z",
+    "expiresAt": "2022-02-21T15:00:00Z",
+    "duration": 60,
+    "priceCents": 3500,
+    "isLegacy": false,
+    "studentAvatar": "https://static-staging.metafy.gg/avatars/48.jpg",
+    "sessionName": "Spray control",
+    "sessionGame": "CS:GO",
+    "description": "You ever playing on de_mirage, hold mouse 1 and end up sending your shots to dust2? Let's fix that."
+  }
+]
